@@ -1,0 +1,7 @@
+G:\Design Patterns in C# and .NET\The SOLID Design Principles\Single Responsibility Principle\Single Responsibility Principle\bin\Debug\Single Responsibility Principle.exe.config
+G:\Design Patterns in C# and .NET\The SOLID Design Principles\Single Responsibility Principle\Single Responsibility Principle\bin\Debug\Single Responsibility Principle.exe
+G:\Design Patterns in C# and .NET\The SOLID Design Principles\Single Responsibility Principle\Single Responsibility Principle\bin\Debug\Single Responsibility Principle.pdb
+G:\Design Patterns in C# and .NET\The SOLID Design Principles\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\Single Responsibility Principle.csprojResolveAssemblyReference.cache
+G:\Design Patterns in C# and .NET\The SOLID Design Principles\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\Single Responsibility Principle.csproj.CoreCompileInputs.cache
+G:\Design Patterns in C# and .NET\The SOLID Design Principles\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\Single Responsibility Principle.exe
+G:\Design Patterns in C# and .NET\The SOLID Design Principles\Single Responsibility Principle\Single Responsibility Principle\obj\Debug\Single Responsibility Principle.pdb
