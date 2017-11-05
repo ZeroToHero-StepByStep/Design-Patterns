@@ -66,10 +66,11 @@ namespace Builder
             root.Name = rootName;
         }
 
-        public void AddChild(string childName, string childText)
+        public HtmlBuilder AddChild(string childName, string childText)
         {
             var e = new HtmlElement(childName,childText);
             root.Elements.Add(e);
+            return this;
         }
 
 
@@ -77,7 +78,6 @@ namespace Builder
         {
             return root.ToString();
         }
-
 
         public void Clear()
         {
@@ -109,9 +109,9 @@ namespace Builder
 
 
             var builder = new HtmlBuilder("ul");
-            builder.AddChild("li","hello");
-            builder.AddChild("li","world");
+            builder.AddChild("li","hello").AddChild("li","world");
             Console.WriteLine(builder);
+
 
 
         }
