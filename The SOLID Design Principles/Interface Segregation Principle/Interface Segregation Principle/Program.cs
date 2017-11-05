@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-
 /*
 Interface Segregation Principle: Clients should not be forced to depend on methods they do not use,
 meaning interfaces should be small, cohesive interfaces to 'fat'. 
